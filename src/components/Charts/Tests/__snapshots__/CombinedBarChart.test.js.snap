@@ -1,0 +1,26 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render bar chart correctly 1`] = `
+Array [
+  <div
+    style={
+      Object {
+        "justifyContent": "center",
+        "textAlign": "center",
+      }
+    }
+  >
+    <h3>
+      Chart Title
+       
+    </h3>
+  </div>,
+  <div
+    style={
+      Object {
+        "height": 300,
+      }
+    }
+  />,
+]
+`;
