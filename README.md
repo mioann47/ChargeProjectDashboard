@@ -10,8 +10,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Add your MongoDB Cloud Atlas credentials
 
-Open src\components\stitch.js
-Add your AppId and StitchName
+Open src\components\stitch.js and add your AppId and StitchName
 
 ## Available Scripts
 
